@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+resultados*/
+resultados*.zip
+viabilidad_*.csv
+externa_detalle.csv
+validacion_*.csv
+cobertura_bandas.csv
+*.xlsx
+diabetes.csv
+plasma_*.csv
