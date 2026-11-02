@@ -98,7 +98,7 @@ If you use CertiSpec, please cite the article and the software (see `CITATION.cf
 > Sánchez Brito M. Distribution-free certification of predictive values for infrared
 > spectroscopic diagnosis from case–control cohorts. (in preparation)
 
-> Sánchez Brito M. CertiSpec (version 1.0.0) [software]. Zenodo. doi: ZENODO_DOI
+> Sánchez Brito M. CertiSpec (version 1.0.0) [software]. Zenodo. doi: 10.5281/zenodo.23878437
 
 ## License
 
