@@ -33,7 +33,7 @@ The theory, proofs and validation are described in the accompanying article (see
 ## Installation
 
 ```bash
-git clone https://github.com/USUARIO/CertiSpec.git
+git clone https://github.com/MSB880626/CertiSpec.git
 cd CertiSpec
 pip install -e ".[test,scripts]"
 pytest -q            # 123 tests, about 1-2 minutes
