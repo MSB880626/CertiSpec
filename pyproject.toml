@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "certispec"
+version = "1.0.0"
+description = "Distribution-free certification of positive and negative predictive values for spectroscopic diagnosis from case-control data"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Miguel Sánchez Brito" }]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.22", "scipy>=1.8", "pandas>=1.4", "scikit-learn>=1.1"]
+keywords = ["infrared spectroscopy", "chemometrics", "predictive values", "distribution-free inference", "confidence bands", "selective classification"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Scientific/Engineering :: Chemistry",
+  "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+
+[project.optional-dependencies]
+scripts = ["openpyxl>=3.0", "matplotlib>=3.5"]
+test = ["pytest>=7", "mpmath>=1.2"]
+
+[project.scripts]
+certispec = "certispec.core:main"
+
+[project.urls]
+Repository = "https://github.com/USUARIO/CertiSpec"
+
+[tool.setuptools]
+packages = ["certispec"]

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use CertiSpec, please cite it as below."
+title: "CertiSpec: distribution-free certification of predictive values for spectroscopic diagnosis"
+version: 1.0.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/USUARIO/CertiSpec"
+authors:
+  - family-names: "Sánchez Brito"
+    given-names: "Miguel"
+    affiliation: "Escuela Superior de Cómputo, Instituto Politécnico Nacional"
+keywords:
+  - infrared spectroscopy
+  - predictive values
+  - distribution-free inference
+  - simultaneous confidence bands
