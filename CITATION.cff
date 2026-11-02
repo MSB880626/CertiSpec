@@ -4,7 +4,7 @@ title: "CertiSpec: distribution-free certification of predictive values for spec
 version: 1.0.0
 date-released: 2026-11-02
 license: MIT
-repository-code: "https://github.com/USUARIO/CertiSpec"
+repository-code: "https://github.com/MSB880626/CertiSpec"
 authors:
   - family-names: "Sánchez Brito"
     given-names: "Miguel"
