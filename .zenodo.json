@@ -1,0 +1,8 @@
+{
+  "title": "CertiSpec: distribution-free certification of predictive values for spectroscopic diagnosis",
+  "upload_type": "software",
+  "description": "Open-source Python software that certifies positive and negative predictive values of spectroscopic classifiers at any target prevalence from case-control calibration data, using simultaneous order-statistic confidence bands with exactly computed coverage, with abstention and an attribution control.",
+  "creators": [{"name": "Sánchez Brito, Miguel", "affiliation": "Escuela Superior de Cómputo, Instituto Politécnico Nacional"}],
+  "license": "MIT",
+  "keywords": ["infrared spectroscopy", "chemometrics", "predictive values", "distribution-free inference", "confidence bands"]
+}
