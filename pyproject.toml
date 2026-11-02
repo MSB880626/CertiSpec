@@ -27,7 +27,7 @@ test = ["pytest>=7", "mpmath>=1.2"]
 certispec = "certispec.core:main"
 
 [project.urls]
-Repository = "https://github.com/USUARIO/CertiSpec"
+Repository = "https://github.com/MSB880626/CertiSpec"
 
 [tool.setuptools]
 packages = ["certispec"]
